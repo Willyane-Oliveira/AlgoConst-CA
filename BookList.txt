@@ -1,0 +1,20 @@
+1,The Holy Bible,King James Version
+3,The Lion the Witch and the Wadrobe,C.S. Lewis
+5,Hamlet,William Shakespeare
+7,The Diary of Anne Frank,Anne Frank
+9,The Little Prince,Antoine de Saint-Exupéry
+11,The Count of Monte Cristo,Alexandre Dumas
+13,The Chronicles of Narnia,C.S. Lewis
+15,Life of Pi,Yann Martel
+17,Water for Elephants,Sara Gruen
+19,Les Misérables,Victor Hugo
+2,The Adventures of Sherlock Holmes,Arthur Conan Doyle 
+4,One Hundred Years of Solitude,Gabriel Garcí­a Márquez 
+6,Dom Quixote,Miguel de Cervantes
+8,Divine Comedy,Dante Alighieri
+10,Moby Dick,Herman Melville
+12,The Jungle,Upton Sinclair
+14,The Color Purple,Alice Walker
+16,Invisible Man,Ralph Ellison
+18,A arte da guerra,Sun Tzu
+20,The Alchemist,Paulo Coleho
